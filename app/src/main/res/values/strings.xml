@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoCar</string>
+    <string name="btnConnect">Connect</string>
+    <string name="btnOn">ON</string>
+    <string name="btnOff">OFF</string>
+
+</resources>
